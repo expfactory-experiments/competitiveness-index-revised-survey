@@ -3,6 +3,7 @@
     "template":"survey",
     "url": "https://github.com/expfactory-experiments/competitiveness-index-revised-survey",
     "description": "Competitiveness Index revised",
+    "instructions": "For each of the following statements, please indicate whether you agree or disagree with them, and how strongly.",
     "exp_id": "competitiveness-index-revised-survey",
     "contributors": [
                      "Juan (Dethea) Du",
