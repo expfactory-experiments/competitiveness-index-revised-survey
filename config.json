@@ -1,6 +1,7 @@
 {
     "name": "Competitiveness Index Revised (CI-R)",
     "template":"survey",
+    "url": "https://github.com/expfactory-experiments/competitiveness-index-revised-survey",
     "description": "Competitiveness Index revised",
     "exp_id": "competitiveness-index-revised-survey",
     "contributors": [
